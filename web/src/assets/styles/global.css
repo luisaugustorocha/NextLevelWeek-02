@@ -45,6 +45,7 @@ body {
 /* Altera a fonte destes elementos. */
 body, input, button, textarea {
   font: 500 1.6rem Poppins; /* A unidade de medida 'rem' é utilizada quando se trabalha com responsividade. */
+  color: var(--color-text-base);
 }
 
 .container { 
